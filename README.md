@@ -21,3 +21,5 @@ Feel free to use the Contact tab on the main site to contact me.
 Updates come every three weeks, if requests are made.
 # That's it!
 `README.md` will be updated every three weeks with changes.
+# Updatelog
+`10/29/2023` Updated UI (added 404 landing, and main pages). Updated all games offline. Assets will be committed next update.
