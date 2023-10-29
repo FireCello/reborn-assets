@@ -21,3 +21,5 @@ Feel free to use the Contact tab on the main site to contact me.
 Updates come every three weeks, if requests are made.
 # That's it!
 `README.md` will be updated every three weeks with changes.
+# Updatelog
+`10/29/2023` Updated UI, finished update game files and assets. I will commit assets next update
